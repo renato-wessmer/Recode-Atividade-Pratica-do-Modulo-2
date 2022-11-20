@@ -7,7 +7,7 @@
 
 ## Link do funcionamento da atividade
 
-**Front-end:** https://www.youtube.com/watch?v=0pIkNGgR8Mg
+**Front-end:** https://youtu.be/NLfN_jF72M4
 
 **Pseudocódigo:** https://youtu.be/cRpTlt0i4xo
 
