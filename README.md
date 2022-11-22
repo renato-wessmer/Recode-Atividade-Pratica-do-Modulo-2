@@ -1,5 +1,5 @@
 # Recode-Atividade-Pratica-do-Modulo-2
- ## :computer: Tecnologias Utilizadas.
+ ## :computer: Tecnologias Utilizadas
 
 * **Pseudocódigo** 
 * **Front-end:** HTML, CSS e Bootstrap.
