@@ -2,8 +2,8 @@
  ## :computer: Tecnologias Utilizadas
 
 * **Pseudocódigo** 
-* **Front-end:** HTML, CSS, Bootstrap
-* **Ferramentas:** Visual Studio Code, VisuAlg 
+* **Front-end:** HTML, CSS e Bootstrap.
+* **Ferramentas:** Visual Studio Code e VisuAlg. 
 
 ## Link do funcionamento da atividade
 
